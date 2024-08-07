@@ -1,4 +1,5 @@
-![tumblr_54805606e41234da265775f4ee8631ef_c86995dd_1280](https://github.com/user-attachments/assets/4d1f73c9-6bf2-4f8f-8ce9-e099420ebe5b)
+<!--![tumblr_54805606e41234da265775f4ee8631ef_c86995dd_1280](https://github.com/user-attachments/assets/4d1f73c9-6bf2-4f8f-8ce9-e099420ebe5b)-->
+![github-header-image (1)](https://github.com/user-attachments/assets/34b7cf29-1f21-4238-ad3b-a45a9aebd9c5)
 
 
 <h1 align="center">Hi 👋, I'm Sumit Vadhava</h1>
