@@ -1,9 +1,10 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/a1c6c6c8-97a0-4e4d-a17f-680370934a8f)
+![tumblr_54805606e41234da265775f4ee8631ef_c86995dd_1280](https://github.com/user-attachments/assets/4d1f73c9-6bf2-4f8f-8ce9-e099420ebe5b)
+
 
 <h1 align="center">Hi 👋, I'm Sumit Vadhava</h1>
 <h3 align="center">I am currently pursuing computer science</h3>
 
-<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400"  src="https://github.com/user-attachments/assets/0bc28bca-11fb-4507-8adf-465b57d294d7"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitvadhava&label=Profile%20views&color=0e75b6&style=flat" alt="sumitvadhava" /> </p>
 
