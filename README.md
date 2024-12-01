@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sumit Vadhava</h1>
-<h3 align="center">I am currently pursuing computer science</h3>
+<h3 align="center">I am currently pursuing computer science engineering</h3>
 
 <img align="right" alt="coding" width="400"  src="https://github.com/user-attachments/assets/0bc28bca-11fb-4507-8adf-465b57d294d7"> 
 
